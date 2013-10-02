@@ -1,7 +1,7 @@
 public class Saudacao {
 
 	public static void main(String[] args) {
-		System.out.println("Bom dia2");
+		System.out.println("Bom dia3");
 
 	}
 
